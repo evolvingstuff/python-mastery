@@ -1,0 +1,1 @@
+python art.py 10 20

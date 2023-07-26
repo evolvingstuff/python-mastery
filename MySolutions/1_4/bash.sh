@@ -1,0 +1,1 @@
+python pcost.py Data/portfolio.dat
